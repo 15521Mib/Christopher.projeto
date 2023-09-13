@@ -1,0 +1,2 @@
+logo.<td-paging-bar [pageSizes]="[10,20,30,40,50]" [pageSize]="pageSize" [total]="totalResultCount" (change)="onChange(event)">
+</td-paging-bar>
