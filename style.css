@@ -70,14 +70,14 @@ nav {
     font-size: 1rem;
     color: #fff;
     background-color: transparent;
-    border-color: #254bf5e1;
+    border-color: #b5b8c4e1;
     border-radius: 5px;
     cursor: pointer;
     transition: all 0.3s ease;
 }
 
 .btn:hover{
-    background-color: #359409;
+    background-color: #52d615;
 }
 
 .container{
