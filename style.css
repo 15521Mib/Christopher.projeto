@@ -20,7 +20,7 @@ a{
 
 body {
     font-family: 'Sora', sans-serif;
-    background-color: #18181B;
+    background-color: #000000;
 }
 
 nav {
@@ -70,7 +70,7 @@ nav {
     font-size: 1rem;
     color: #fff;
     background-color: transparent;
-    border-color: #b5b8c4e1;
+    border-color: #254bf5e1;
     border-radius: 5px;
     cursor: pointer;
     transition: all 0.3s ease;
@@ -88,8 +88,8 @@ nav {
 
 .blur{
     position: absolute;
-    box-shadow: 0 0 1000px 50px #1d4ed8;
-    z-index: -100;
+    box-shadow: 0 0 1000px 50px #915108;
+    z-index: -100;    
 }
 
 header{
@@ -131,7 +131,7 @@ header .image{
 }
 
 header .image::before{
-    content: "o";
+    content: "🌏";
     position: absolute;
     top: 0;
     left: 50%;
@@ -139,7 +139,7 @@ header .image::before{
     font-size: 38rem;
     font-weight: 400;
     line-height: 20rem;
-    color: #1d4ed8;
+    color: #d5d8e0;
     opacity: 0.2;
     z-index: -100;
 }
