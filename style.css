@@ -92,6 +92,10 @@ nav {
     z-index: -100;    
 }
 
+.cadastrar{
+    color: #000000;
+}
+
 header{
     position: relative;
     padding-top: 2rem;
